@@ -1,4 +1,4 @@
-# Gematria Library
+# Gematria Java Library
 Methods to calculate the gematria values for Latin-based alphabets, with the following calculators available:
 
 * The "Latin Qabalah" given in Chapter XX of "[Three Books of Occult Philosophy](https://en.wikipedia.org/wiki/Three_Books_of_Occult_Philosophy)" by Henry Cornelius Agrippa (1531).
